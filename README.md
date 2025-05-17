@@ -5,7 +5,7 @@
 </p>
 <br>
 
-<h2 align="center">Мои любимые технологии 💻</h2>
+<h2 align="center">Языки программирования, которые я знаю и учу💻</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,cpp,cs,py,ts,js,java">
 </p>
