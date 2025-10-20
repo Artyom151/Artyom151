@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm dexile 👋</h1>
 
-<!--
-**Artyom151/Artyom151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I'm learning C and aiming to become a backend developer.<br>
+  I write code in Python, Next.js, and Electron — and I'm always excited to learn more!<br>
+  If you have an interesting idea or a project to collaborate on, feel free to reach out!<br>
+  You can often find me more active on Codeberg these days.
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">My tech stack 🏗️</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,py,js,ts,nextjs,electron,nodejs,bash" />
+</p>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dexile&hide=html,css,javascript,typescript,makefile,cmake,dockerfile&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=true" height="140" alt="Top languages" />
+</div>
+
+<br>
+
+<br><br>
