@@ -4,7 +4,6 @@
   I'm learning C and aiming to become a backend developer.<br>
   I write code in Python, Next.js, and Electron — and I'm always excited to learn more!<br>
   If you have an interesting idea or a project to collaborate on, feel free to reach out!<br>
-  You can often find me more active on Codeberg these days.
 </p>
 
 <br>
@@ -17,7 +16,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dexile&hide=html,css,javascript,typescript,makefile,cmake,dockerfile&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=true" height="140" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Artyom151&hide=html,css,javascript,typescript,makefile,cmake,dockerfile&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=true" height="140" alt="Top languages" />
 </div>
 
 <br>
