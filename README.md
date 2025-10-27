@@ -16,7 +16,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Artyom151&hide=html,css,javascript,typescript,makefile,cmake,dockerfile&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=true" height="140" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Artyom151&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=true" height="140" alt="Top languages" />
 </div>
 
 <br>
